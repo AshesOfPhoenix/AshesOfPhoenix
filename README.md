@@ -2,7 +2,7 @@
 
 ## I'm currently attending Faculty of Computer Science and information in Ljubljana, Slovenia.
 
-### Spotify[website] 🎧
+### [Spotify][website] 🎧
 
 
 
