@@ -17,7 +17,7 @@
 
 - 🖥️ **[WooTUI](https://github.com/AshesOfPhoenix/wootui)** - translated WooCommerce products in terminal
 - 🎯 **[Focus Mode](https://github.com/AshesOfPhoenix/focus_mode.koplugin)** - KoReader plugin for productivity and focus on Kindle
-- 🔏 **[Auth Memory](https://github.com/ashesofphoenix/auth-memory-extension)** - Chrome Extensions that saves which account you used last
+- 🔏 **[Auth Memory](https://github.com/AshesOfPhoenix/auth-memory)** - Chrome Extensions that saves which account you used last
 
 
 ## Older Work
