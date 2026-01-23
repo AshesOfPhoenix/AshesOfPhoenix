@@ -38,7 +38,7 @@
 
 [![X/Twitter](https://img.shields.io/badge/-@kristjankrizman-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kristjankrizman)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kristjankrizman)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AshesOfPhoenix)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kkris0)
 
 ### Philosophy
 
