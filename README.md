@@ -15,18 +15,18 @@
 
 ## Current Projects
 
-- 🖥️ **[WooTUI](https://github.com/AshesOfPhoenix/wootui)** - translated WooCommerce products in terminal
-- 🎯 **[Focus Mode](https://github.com/AshesOfPhoenix/focus_mode.koplugin)** - KoReader plugin for productivity and focus on Kindle
-- 🔏 **[Auth Memory](https://github.com/AshesOfPhoenix/auth-memory)** - Chrome Extensions that saves which account you used last
+- 🖥️ **[WooTUI](https://github.com/kkris0/wootui)** - translated WooCommerce products in terminal
+- 🎯 **[Focus Mode](https://github.com/kkris0/focus_mode.koplugin)** - KoReader plugin for productivity and focus on Kindle
+- 🔏 **[Auth Memory](https://github.com/kkris0/auth-memory)** - Chrome Extensions that saves which account you used last
 
 
 ## Older Work
 
-- 📲 **[Telepost](https://github.com/AshesOfPhoenix/telepost)** - post to X/Threads from Telegram and chat with AI
+- 📲 **[Telepost](https://github.com/kkris0/telepost)** - post to X/Threads from Telegram and chat with AI
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/AshesOfPhoenix)
+![GitHub Contribution Graph](https://ghchart.rshah.org/kkris0)
 
 ## What I'm Doing
 
